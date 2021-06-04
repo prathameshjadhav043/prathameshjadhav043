@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning React and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prathamehsjadhav043@gmail.com
-                     linkedin : https://www.linkedin.com/in/prathameshjadhav043/
+                     Linkedin : https://www.linkedin.com/in/prathameshjadhav043/
