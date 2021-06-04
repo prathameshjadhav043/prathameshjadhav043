@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prathameshjadhav043
+- 👋 Hi, I’m Prathamesh Jadhav
 - 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning React and Python
 - 💞️ I’m looking to collaborate on ...
