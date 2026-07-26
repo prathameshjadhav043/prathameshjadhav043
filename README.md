@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Prathamesh Jadhav
-- 👀 Mobile App Developer
-- 📫 How to reach me Email : prathamehsjadhav043@gmail.com Linkedin : https://www.linkedin.com/in/prathameshjadhav07
+📱 Mobile Software Engineer
+⚛️ React Native • Swift • Flutter
+🍎 Building high-performance iOS & Android apps
+🚀 Exploring Unity Eng, AI & Mobile Architecture
+🌏 Open Source | Clean Code | Continuous Learning
